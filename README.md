@@ -1,6 +1,7 @@
 # Strapi application
 
-A quick description of your strapi application
+Strapi CMS deployed to heroku
+https://webcreatives-admin.herokuapp.com/
 
 1.  **Start developing.**
 
